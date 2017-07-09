@@ -1,0 +1,2 @@
+class HotelDate < ApplicationRecord
+end
